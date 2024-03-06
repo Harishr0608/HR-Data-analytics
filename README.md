@@ -1,2 +1,3 @@
 # HR-Data-analytics
-Tableau Project
+Tableau Dashboard Project
+Excel Dashboard Project
